@@ -9,16 +9,12 @@ h1{
 }
 h1 {
     font-size: 68pt;
-<<<<<<< HEAD
 }
 .center {
-    position: absolute;
+    position: relative;
     display: block;
     margin-left: 563px;
     margin-right: auto;
     width: 25%;
   }
-=======
-    color: red;
-}
->>>>>>> 966c2e4abd5db5288147540eedb2dc321ad79fad
+
