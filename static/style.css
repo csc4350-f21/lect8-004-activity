@@ -11,6 +11,16 @@ h1{
 }
 h1 {
     font-size: 68pt;
+}
+.center {
+    position: relative;
+    display: block;
+    margin-left: 563px;
+    margin-right: auto;
+    width: 50%;
+  }
+a {
+    font-size: 50px;
     color: red;
 }
 .image {
