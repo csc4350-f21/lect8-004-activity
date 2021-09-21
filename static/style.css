@@ -1,8 +1,15 @@
 body {
     font-family: Helvetica;
+    background-color: gray;
+    color:purple;
+}
+
+h1{
+    text-decoration: overline;
 }
 h1 {
     font-size: 68pt;
+<<<<<<< HEAD
 }
 .center {
     position: absolute;
@@ -11,3 +18,7 @@ h1 {
     margin-right: auto;
     width: 25%;
   }
+=======
+    color: red;
+}
+>>>>>>> 966c2e4abd5db5288147540eedb2dc321ad79fad
