@@ -28,3 +28,8 @@ a {
     image-orientation: flip;
     border-radius: 50%;
 }
+
+.clss {
+    color: blueviolet;
+    font-size: 32px;
+}
