@@ -1,5 +1,5 @@
 body {
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-family: Brush Script MT;
     {background-color: rgba(220, 81, 72, 0.5);}
 }
 
@@ -9,4 +9,5 @@ h1 {
 
 h2 {
     font-size: 80pt;
+    color: whitesmoke
 }
