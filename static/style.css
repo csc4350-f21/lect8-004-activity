@@ -9,6 +9,13 @@ h1{
 }
 h1 {
     font-size: 68pt;
+}
+.center {
+    position: absolute;
+    display: block;
+    margin-left: 563px;
+    margin-right: auto;
+    width: 25%;
     color: red;
 }
 
