@@ -1,6 +1,13 @@
 body {
     font-family: Helvetica;
+    background-color: gray;
+    color:purple;
+}
+
+h1{
+    text-decoration: overline;
 }
 h1 {
     font-size: 68pt;
+    color: red;
 }
