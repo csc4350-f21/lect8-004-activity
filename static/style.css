@@ -2,4 +2,10 @@ body {
     background-image: linear-gradient(rgb(90, 95, 105), rgb(55, 77, 124));
     font-style: italic;
     font-family: Helvetica;
+    background-color: gray;
+    color:purple;
+}
+h1 {
+    font-size: 68pt;
+    color: red;
 }
