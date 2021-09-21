@@ -1,5 +1,7 @@
 body {
     font-family: Helvetica;
+    background-color: gray;
+    color:purple;
 }
 
 h1{
@@ -7,4 +9,5 @@ h1{
 }
 h1 {
     font-size: 68pt;
+    color: red;
 }
