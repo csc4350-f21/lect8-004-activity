@@ -1,4 +1,6 @@
 body {
+    background-image: linear-gradient(rgb(90, 95, 105), rgb(55, 77, 124));
+    font-style: italic;
     font-family: Helvetica;
     background-color: gray;
     color:purple;
@@ -11,15 +13,17 @@ h1 {
     font-size: 68pt;
 }
 .center {
-    position: absolute;
+    position: relative;
     display: block;
     margin-left: 563px;
     margin-right: auto;
-    width: 25%;
-    color: red;
-}
-
+    width: 50%;
+  }
 a {
     font-size: 50px;
     color: red;
+}
+.image {
+    image-orientation: flip;
+    border-radius: 50%;
 }
