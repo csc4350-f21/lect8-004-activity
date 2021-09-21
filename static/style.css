@@ -1,4 +1,6 @@
 body {
+    background-image: linear-gradient(rgb(90, 95, 105), rgb(55, 77, 124));
+    font-style: italic;
     font-family: Helvetica;
     background-color: gray;
     color:purple;
@@ -16,16 +18,13 @@ h1 {
     display: block;
     margin-left: 563px;
     margin-right: auto;
-    width: 25%;
-<<<<<<< HEAD
+    width: 50%;
   }
-
-=======
-    color: red;
-}
-
 a {
     font-size: 50px;
     color: red;
 }
->>>>>>> 81e73760fe9d7810b2b48f229f762182f10be0cc
+.image {
+    image-orientation: flip;
+    border-radius: 50%;
+}
