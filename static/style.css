@@ -13,3 +13,7 @@ h1 {
     font-size: 68pt;
     color: red;
 }
+.image {
+    image-orientation: flip;
+    border-radius: 50%;
+}
