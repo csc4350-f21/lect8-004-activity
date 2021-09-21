@@ -1,6 +1,12 @@
 body {
-    font-family: Helvetica;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    {background-color: rgba(220, 81, 72, 0.5);}
 }
+
 h1 {
     font-size: 68pt;
+}
+
+h2 {
+    font-size: 80pt;
 }
